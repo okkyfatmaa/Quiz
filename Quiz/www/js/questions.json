@@ -1,0 +1,52 @@
+{
+	"1" : {
+		"question": "Suatu unit kehidupan yang didalamnya terdapat hubungan timbal balik antara makhluk hidup dengan lingkungannya dinamakan ekosistem.",
+		"answer": true
+	},
+
+	"2" : {
+		"question": "Lingkungan yang berupa benda-benda mati dinamakan lingkungan biologi.",
+		"answer": false
+	},
+
+	"3" : {
+		"question": "Akibat yang ditimbulkan karena membuang sampah dan limbah industri di sungai adalah ikan di sungai bertambah banyak.",
+		"answer": false
+	},
+
+	"4" : {
+		"question": "Kegiatan manusia yang dapat menyebabkan banjir adalah pembuangan sampah ke sungai.",
+		"answer": true
+	},
+
+	"5" : {
+		"question": "Dampak buruk kegiatan manusia terhadap lingkungan yang tidak sesuai aturan adalah terjadi bencana banjir.",
+		"answer": true
+	},
+
+	"6" : {
+		"question": "Hewan-hewan bisa menjadi langka disebabkan karena penghijauan hutan .",
+		"answer": false
+	},
+
+	"7" : {
+		"question": "Berikut ini adalah komponen dari lingkungan abiotik adalah hewan dan pohon.",
+		"answer": false
+	},
+
+	"8" : {
+		"question": "Pohon, harimau, gajah, dan semak-semak adalah contoh ekosistem yang terdapat di Hutan.",
+		"answer": true
+	},
+
+	"9" : {
+		"question": "Berikut ini komponen yang berada di lingkungan sawah adalah padi, tikus, ular dan belalang.",
+		"answer": true
+	},
+
+	"10" : {
+		"question": "Di dalam ekosistem, tumbuhan berperan sebagai produsen.",
+		"answer": true
+	}
+
+}
